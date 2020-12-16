@@ -1,14 +1,16 @@
 # aoc-python-template
+This is the github repository of my repl.it AOC 2020:  https://repl.it/@seantmac1/aoc-python-template
+
 
 Advent of Code:
 
-[2020] 20*
+[2020] 28*
 [2019] 37*
 [2018] 50*
 [2017] 50*
 [2016] 14*
 [2015] 19*
-Total stars: 190*
+Total stars: 198*
 
 
 
